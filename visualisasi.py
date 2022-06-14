@@ -1,6 +1,6 @@
 import yfinance as yf
 import pandas as pd
-impor streamlit as streamlit
+import streamlit as streamlit
 
 st.write("""
 # Aplikasi Yahoo Finance
